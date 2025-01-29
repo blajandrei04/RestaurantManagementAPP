@@ -1,0 +1,1 @@
+[{"_id": 1, "kunden_id": 1, "gerichte_ids": [2, 3], "getranke_ids": [3, 4]}, {"_id": 2, "kunden_id": 2, "gerichte_ids": [3, 5], "getranke_ids": [3, 4]},{"_id": 2, "kunden_id": [3, 4], "gerichte_ids": [5, 6], "getranke_ids": []}]{"_id": 2, "kunden_id": [3], "gerichte_ids": [4], "getranke_ids": []}
